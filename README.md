@@ -1,6 +1,5 @@
 # M2M_E-Grow
 
--------
 
 ## Client
 
@@ -24,7 +23,6 @@
 
 * Pour tous les blocs `Serial`, double-cliquer sur ceux-ci et sélectionner les ports USB adéquats.
 
--------
 
 ## Serveur
 
